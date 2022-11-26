@@ -9,11 +9,7 @@ Please invite me to the GitHub Community Organisation.
 
 - #### Name:
 
-- #### Discord Username(if exists):
 
-<!--https://discord.gg/ErG8W36Tkm (link to our discord server)-->
+[ ] Join Our [Slack](https://join.slack.com/t/awsometownhall/shared_invite/zt-1k4c46783-hznP2GHSTQgBe548ObpiPg)
 
 
-<!--What do you like about this community/ why do you want to join-->
-
-:nerd_face:
